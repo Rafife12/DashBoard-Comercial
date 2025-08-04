@@ -17,7 +17,7 @@ Este repositório apresenta um projeto de dashboard comercial desenvolvido no Po
 
 ---
 
-## 🧱 Modelo de Dados
+## 🧱 Modelo de Dados:
 
 O modelo utiliza as seguintes tabelas:
 
