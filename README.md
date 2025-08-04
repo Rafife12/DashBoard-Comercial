@@ -4,7 +4,7 @@ Este repositório apresenta um projeto de dashboard comercial desenvolvido no Po
 
 ---
 
-## 🖼️ Capturas de Tela
+## 🖼️ Capturas de Tela:
 
 ### 🔷 Dashboard Completo
 ![Dashboard Comercial](https://github.com/user-attachments/assets/eb26f0a6-4e5d-499a-8a83-c38636aef498)
